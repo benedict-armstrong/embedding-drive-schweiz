@@ -4,11 +4,10 @@
   "description": "Hundert Schweizer Orte und Dinge: Städte, Gipfel, Seen, Pässe, Käse, Uhren, Institutionen und berühmte Schweizer, nach Bedeutung angeordnet.",
   "author": "Benedict Armstrong",
   "nodes": 100,
-  "titles": "titles.txt",
   "vectors": "vectors.bin",
   "knn": "knn.bin",
   "embedding": {
-    "model": "onnx-community/embeddinggemma-300m-ONNX",
+    "model": "onnx-community/embeddinggemma-2-ONNX",
     "dtype": "q8",
     "prefix": "task: sentence similarity | query: ",
     "pooling": "mean",

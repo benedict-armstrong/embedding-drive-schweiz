@@ -13,3 +13,5 @@ Im Spiel unter **World → Community maps** öffnen, oder dort `benedict-armstro
 - `nodes.json`: Beschriftungen und Links zur deutschsprachigen Wikipedia, für die nächste Version des Kartenformats.
 
 Erstellt mit `scripts/embed-vocab.mjs` und `scripts/build-knn.mjs` aus dem Spiel.
+
+Re-embedded with EmbeddingGemma 2 (`onnx-community/embeddinggemma-2-ONNX`, text only, q8, mean pooling, sentence-similarity prefix, 768 dimensions). Neighbour tables were regenerated from the new vectors. This changes the generated world; existing commit-pinned links still load their original map.
