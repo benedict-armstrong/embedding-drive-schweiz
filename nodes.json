@@ -1,0 +1,602 @@
+[
+ {
+  "id": "Schweiz",
+  "label": "Schweiz",
+  "title": "Schweiz",
+  "link": "https://de.wikipedia.org/wiki/Schweiz"
+ },
+ {
+  "id": "Zürich",
+  "label": "Zürich",
+  "title": "Zürich",
+  "link": "https://de.wikipedia.org/wiki/Z%C3%BCrich"
+ },
+ {
+  "id": "Genf",
+  "label": "Genf",
+  "title": "Genf",
+  "link": "https://de.wikipedia.org/wiki/Genf"
+ },
+ {
+  "id": "Basel",
+  "label": "Basel",
+  "title": "Basel",
+  "link": "https://de.wikipedia.org/wiki/Basel"
+ },
+ {
+  "id": "Bern",
+  "label": "Bern",
+  "title": "Bern",
+  "link": "https://de.wikipedia.org/wiki/Bern"
+ },
+ {
+  "id": "Lausanne",
+  "label": "Lausanne",
+  "title": "Lausanne",
+  "link": "https://de.wikipedia.org/wiki/Lausanne"
+ },
+ {
+  "id": "Luzern",
+  "label": "Luzern",
+  "title": "Luzern",
+  "link": "https://de.wikipedia.org/wiki/Luzern"
+ },
+ {
+  "id": "Lugano",
+  "label": "Lugano",
+  "title": "Lugano",
+  "link": "https://de.wikipedia.org/wiki/Lugano"
+ },
+ {
+  "id": "St. Gallen",
+  "label": "St. Gallen",
+  "title": "St. Gallen",
+  "link": "https://de.wikipedia.org/wiki/St._Gallen"
+ },
+ {
+  "id": "Interlaken",
+  "label": "Interlaken",
+  "title": "Interlaken",
+  "link": "https://de.wikipedia.org/wiki/Interlaken"
+ },
+ {
+  "id": "Zermatt",
+  "label": "Zermatt",
+  "title": "Zermatt",
+  "link": "https://de.wikipedia.org/wiki/Zermatt"
+ },
+ {
+  "id": "Davos",
+  "label": "Davos",
+  "title": "Davos",
+  "link": "https://de.wikipedia.org/wiki/Davos"
+ },
+ {
+  "id": "St. Moritz",
+  "label": "St. Moritz",
+  "title": "St. Moritz",
+  "link": "https://de.wikipedia.org/wiki/St._Moritz"
+ },
+ {
+  "id": "Montreux",
+  "label": "Montreux",
+  "title": "Montreux",
+  "link": "https://de.wikipedia.org/wiki/Montreux"
+ },
+ {
+  "id": "Chur",
+  "label": "Chur",
+  "title": "Chur",
+  "link": "https://de.wikipedia.org/wiki/Chur"
+ },
+ {
+  "id": "Neuenburg NE",
+  "label": "Neuenburg NE",
+  "title": "Neuenburg NE",
+  "link": "https://de.wikipedia.org/wiki/Neuenburg_NE"
+ },
+ {
+  "id": "Sitten",
+  "label": "Sitten",
+  "title": "Sitten",
+  "link": "https://de.wikipedia.org/wiki/Sitten"
+ },
+ {
+  "id": "Grindelwald",
+  "label": "Grindelwald",
+  "title": "Grindelwald",
+  "link": "https://de.wikipedia.org/wiki/Grindelwald"
+ },
+ {
+  "id": "Appenzell (Ort)",
+  "label": "Appenzell",
+  "title": "Appenzell (Ort)",
+  "link": "https://de.wikipedia.org/wiki/Appenzell_(Ort)"
+ },
+ {
+  "id": "Matterhorn",
+  "label": "Matterhorn",
+  "title": "Matterhorn",
+  "link": "https://de.wikipedia.org/wiki/Matterhorn"
+ },
+ {
+  "id": "Eiger",
+  "label": "Eiger",
+  "title": "Eiger",
+  "link": "https://de.wikipedia.org/wiki/Eiger"
+ },
+ {
+  "id": "Jungfrau (Berg)",
+  "label": "Jungfrau",
+  "title": "Jungfrau (Berg)",
+  "link": "https://de.wikipedia.org/wiki/Jungfrau_(Berg)"
+ },
+ {
+  "id": "Monte Rosa",
+  "label": "Monte Rosa",
+  "title": "Monte Rosa",
+  "link": "https://de.wikipedia.org/wiki/Monte_Rosa"
+ },
+ {
+  "id": "Pilatus (Bergmassiv)",
+  "label": "Pilatus",
+  "title": "Pilatus (Bergmassiv)",
+  "link": "https://de.wikipedia.org/wiki/Pilatus_(Bergmassiv)"
+ },
+ {
+  "id": "Rigi",
+  "label": "Rigi",
+  "title": "Rigi",
+  "link": "https://de.wikipedia.org/wiki/Rigi"
+ },
+ {
+  "id": "Säntis",
+  "label": "Säntis",
+  "title": "Säntis",
+  "link": "https://de.wikipedia.org/wiki/S%C3%A4ntis"
+ },
+ {
+  "id": "Piz Bernina",
+  "label": "Piz Bernina",
+  "title": "Piz Bernina",
+  "link": "https://de.wikipedia.org/wiki/Piz_Bernina"
+ },
+ {
+  "id": "Jungfraujoch",
+  "label": "Jungfraujoch",
+  "title": "Jungfraujoch",
+  "link": "https://de.wikipedia.org/wiki/Jungfraujoch"
+ },
+ {
+  "id": "Aletschgletscher",
+  "label": "Aletschgletscher",
+  "title": "Aletschgletscher",
+  "link": "https://de.wikipedia.org/wiki/Aletschgletscher"
+ },
+ {
+  "id": "Genfersee",
+  "label": "Genfersee",
+  "title": "Genfersee",
+  "link": "https://de.wikipedia.org/wiki/Genfersee"
+ },
+ {
+  "id": "Zürichsee",
+  "label": "Zürichsee",
+  "title": "Zürichsee",
+  "link": "https://de.wikipedia.org/wiki/Z%C3%BCrichsee"
+ },
+ {
+  "id": "Vierwaldstättersee",
+  "label": "Vierwaldstättersee",
+  "title": "Vierwaldstättersee",
+  "link": "https://de.wikipedia.org/wiki/Vierwaldst%C3%A4ttersee"
+ },
+ {
+  "id": "Bodensee",
+  "label": "Bodensee",
+  "title": "Bodensee",
+  "link": "https://de.wikipedia.org/wiki/Bodensee"
+ },
+ {
+  "id": "Luganersee",
+  "label": "Luganersee",
+  "title": "Luganersee",
+  "link": "https://de.wikipedia.org/wiki/Luganersee"
+ },
+ {
+  "id": "Rhein",
+  "label": "Rhein",
+  "title": "Rhein",
+  "link": "https://de.wikipedia.org/wiki/Rhein"
+ },
+ {
+  "id": "Rhone",
+  "label": "Rhone",
+  "title": "Rhone",
+  "link": "https://de.wikipedia.org/wiki/Rhone"
+ },
+ {
+  "id": "Aare",
+  "label": "Aare",
+  "title": "Aare",
+  "link": "https://de.wikipedia.org/wiki/Aare"
+ },
+ {
+  "id": "Rheinfall",
+  "label": "Rheinfall",
+  "title": "Rheinfall",
+  "link": "https://de.wikipedia.org/wiki/Rheinfall"
+ },
+ {
+  "id": "Gotthardpass",
+  "label": "Gotthardpass",
+  "title": "Gotthardpass",
+  "link": "https://de.wikipedia.org/wiki/Gotthardpass"
+ },
+ {
+  "id": "Gotthard-Basistunnel",
+  "label": "Gotthard-Basistunnel",
+  "title": "Gotthard-Basistunnel",
+  "link": "https://de.wikipedia.org/wiki/Gotthard-Basistunnel"
+ },
+ {
+  "id": "Grosser St. Bernhard",
+  "label": "Grosser St. Bernhard",
+  "title": "Grosser St. Bernhard",
+  "link": "https://de.wikipedia.org/wiki/Grosser_St._Bernhard"
+ },
+ {
+  "id": "Glacier Express",
+  "label": "Glacier Express",
+  "title": "Glacier Express",
+  "link": "https://de.wikipedia.org/wiki/Glacier_Express"
+ },
+ {
+  "id": "Berninabahn",
+  "label": "Berninabahn",
+  "title": "Berninabahn",
+  "link": "https://de.wikipedia.org/wiki/Berninabahn"
+ },
+ {
+  "id": "Schweizer Alpen",
+  "label": "Schweizer Alpen",
+  "title": "Schweizer Alpen",
+  "link": "https://de.wikipedia.org/wiki/Schweizer_Alpen"
+ },
+ {
+  "id": "Jura (Gebirge)",
+  "label": "Jura",
+  "title": "Jura (Gebirge)",
+  "link": "https://de.wikipedia.org/wiki/Jura_(Gebirge)"
+ },
+ {
+  "id": "Mittelland (Schweiz)",
+  "label": "Mittelland",
+  "title": "Mittelland (Schweiz)",
+  "link": "https://de.wikipedia.org/wiki/Mittelland_(Schweiz)"
+ },
+ {
+  "id": "Kanton Tessin",
+  "label": "Kanton Tessin",
+  "title": "Kanton Tessin",
+  "link": "https://de.wikipedia.org/wiki/Kanton_Tessin"
+ },
+ {
+  "id": "Kanton Wallis",
+  "label": "Kanton Wallis",
+  "title": "Kanton Wallis",
+  "link": "https://de.wikipedia.org/wiki/Kanton_Wallis"
+ },
+ {
+  "id": "Kanton Graubünden",
+  "label": "Kanton Graubünden",
+  "title": "Kanton Graubünden",
+  "link": "https://de.wikipedia.org/wiki/Kanton_Graub%C3%BCnden"
+ },
+ {
+  "id": "Engadin",
+  "label": "Engadin",
+  "title": "Engadin",
+  "link": "https://de.wikipedia.org/wiki/Engadin"
+ },
+ {
+  "id": "Emmental",
+  "label": "Emmental",
+  "title": "Emmental",
+  "link": "https://de.wikipedia.org/wiki/Emmental"
+ },
+ {
+  "id": "Lauterbrunnen",
+  "label": "Lauterbrunnen",
+  "title": "Lauterbrunnen",
+  "link": "https://de.wikipedia.org/wiki/Lauterbrunnen"
+ },
+ {
+  "id": "Emmentaler",
+  "label": "Emmentaler",
+  "title": "Emmentaler",
+  "link": "https://de.wikipedia.org/wiki/Emmentaler"
+ },
+ {
+  "id": "Greyerzer",
+  "label": "Greyerzer",
+  "title": "Greyerzer",
+  "link": "https://de.wikipedia.org/wiki/Greyerzer"
+ },
+ {
+  "id": "Fondue",
+  "label": "Fondue",
+  "title": "Fondue",
+  "link": "https://de.wikipedia.org/wiki/Fondue"
+ },
+ {
+  "id": "Raclette",
+  "label": "Raclette",
+  "title": "Raclette",
+  "link": "https://de.wikipedia.org/wiki/Raclette"
+ },
+ {
+  "id": "Rösti",
+  "label": "Rösti",
+  "title": "Rösti",
+  "link": "https://de.wikipedia.org/wiki/R%C3%B6sti"
+ },
+ {
+  "id": "Schweizer Schokolade",
+  "label": "Schweizer Schokolade",
+  "title": "Schweizer Schokolade",
+  "link": "https://de.wikipedia.org/wiki/Schweizer_Schokolade"
+ },
+ {
+  "id": "Toblerone",
+  "label": "Toblerone",
+  "title": "Toblerone",
+  "link": "https://de.wikipedia.org/wiki/Toblerone"
+ },
+ {
+  "id": "Müsli",
+  "label": "Müsli",
+  "title": "Müsli",
+  "link": "https://de.wikipedia.org/wiki/M%C3%BCsli"
+ },
+ {
+  "id": "Nestlé",
+  "label": "Nestlé",
+  "title": "Nestlé",
+  "link": "https://de.wikipedia.org/wiki/Nestl%C3%A9"
+ },
+ {
+  "id": "Lindt & Sprüngli",
+  "label": "Lindt & Sprüngli",
+  "title": "Lindt & Sprüngli",
+  "link": "https://de.wikipedia.org/wiki/Lindt_%26_Spr%C3%BCngli"
+ },
+ {
+  "id": "Bundesrat (Schweiz)",
+  "label": "Bundesrat",
+  "title": "Bundesrat (Schweiz)",
+  "link": "https://de.wikipedia.org/wiki/Bundesrat_(Schweiz)"
+ },
+ {
+  "id": "Bundesversammlung (Schweiz)",
+  "label": "Bundesversammlung",
+  "title": "Bundesversammlung (Schweiz)",
+  "link": "https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz)"
+ },
+ {
+  "id": "Schweizer Franken",
+  "label": "Schweizer Franken",
+  "title": "Schweizer Franken",
+  "link": "https://de.wikipedia.org/wiki/Schweizer_Franken"
+ },
+ {
+  "id": "Päpstliche Schweizergarde",
+  "label": "Päpstliche Schweizergarde",
+  "title": "Päpstliche Schweizergarde",
+  "link": "https://de.wikipedia.org/wiki/P%C3%A4pstliche_Schweizergarde"
+ },
+ {
+  "id": "Schweizer Taschenmesser",
+  "label": "Schweizer Taschenmesser",
+  "title": "Schweizer Taschenmesser",
+  "link": "https://de.wikipedia.org/wiki/Schweizer_Taschenmesser"
+ },
+ {
+  "id": "Neutralität der Schweiz",
+  "label": "Neutralität der Schweiz",
+  "title": "Neutralität der Schweiz",
+  "link": "https://de.wikipedia.org/wiki/Neutralit%C3%A4t_der_Schweiz"
+ },
+ {
+  "id": "Alte Eidgenossenschaft",
+  "label": "Alte Eidgenossenschaft",
+  "title": "Alte Eidgenossenschaft",
+  "link": "https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft"
+ },
+ {
+  "id": "Wilhelm Tell",
+  "label": "Wilhelm Tell",
+  "title": "Wilhelm Tell",
+  "link": "https://de.wikipedia.org/wiki/Wilhelm_Tell"
+ },
+ {
+  "id": "Bundesbrief von 1291",
+  "label": "Bundesbrief von 1291",
+  "title": "Bundesbrief von 1291",
+  "link": "https://de.wikipedia.org/wiki/Bundesbrief_von_1291"
+ },
+ {
+  "id": "Rütli",
+  "label": "Rütli",
+  "title": "Rütli",
+  "link": "https://de.wikipedia.org/wiki/R%C3%BCtli"
+ },
+ {
+  "id": "Internationales Komitee vom Roten Kreuz",
+  "label": "Internationales Komitee v…",
+  "title": "Internationales Komitee vom Roten Kreuz",
+  "link": "https://de.wikipedia.org/wiki/Internationales_Komitee_vom_Roten_Kreuz"
+ },
+ {
+  "id": "CERN",
+  "label": "CERN",
+  "title": "CERN",
+  "link": "https://de.wikipedia.org/wiki/CERN"
+ },
+ {
+  "id": "Büro der Vereinten Nationen in Genf",
+  "label": "Büro der Vereinten Nation…",
+  "title": "Büro der Vereinten Nationen in Genf",
+  "link": "https://de.wikipedia.org/wiki/B%C3%BCro_der_Vereinten_Nationen_in_Genf"
+ },
+ {
+  "id": "Weltwirtschaftsforum",
+  "label": "Weltwirtschaftsforum",
+  "title": "Weltwirtschaftsforum",
+  "link": "https://de.wikipedia.org/wiki/Weltwirtschaftsforum"
+ },
+ {
+  "id": "FIFA",
+  "label": "FIFA",
+  "title": "FIFA",
+  "link": "https://de.wikipedia.org/wiki/FIFA"
+ },
+ {
+  "id": "Internationales Olympisches Komitee",
+  "label": "Internationales Olympisch…",
+  "title": "Internationales Olympisches Komitee",
+  "link": "https://de.wikipedia.org/wiki/Internationales_Olympisches_Komitee"
+ },
+ {
+  "id": "ETH Zürich",
+  "label": "ETH Zürich",
+  "title": "ETH Zürich",
+  "link": "https://de.wikipedia.org/wiki/ETH_Z%C3%BCrich"
+ },
+ {
+  "id": "École polytechnique fédérale de Lausanne",
+  "label": "École polytechnique fédér…",
+  "title": "École polytechnique fédérale de Lausanne",
+  "link": "https://de.wikipedia.org/wiki/%C3%89cole_polytechnique_f%C3%A9d%C3%A9rale_de_Lausanne"
+ },
+ {
+  "id": "Rolex",
+  "label": "Rolex",
+  "title": "Rolex",
+  "link": "https://de.wikipedia.org/wiki/Rolex"
+ },
+ {
+  "id": "Swatch",
+  "label": "Swatch",
+  "title": "Swatch",
+  "link": "https://de.wikipedia.org/wiki/Swatch"
+ },
+ {
+  "id": "Schweizerische Bundesbahnen",
+  "label": "Schweizerische Bundesbahn…",
+  "title": "Schweizerische Bundesbahnen",
+  "link": "https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen"
+ },
+ {
+  "id": "Alphorn",
+  "label": "Alphorn",
+  "title": "Alphorn",
+  "link": "https://de.wikipedia.org/wiki/Alphorn"
+ },
+ {
+  "id": "Jodeln",
+  "label": "Jodeln",
+  "title": "Jodeln",
+  "link": "https://de.wikipedia.org/wiki/Jodeln"
+ },
+ {
+  "id": "Schweizerdeutsch",
+  "label": "Schweizerdeutsch",
+  "title": "Schweizerdeutsch",
+  "link": "https://de.wikipedia.org/wiki/Schweizerdeutsch"
+ },
+ {
+  "id": "Bündnerromanisch",
+  "label": "Bündnerromanisch",
+  "title": "Bündnerromanisch",
+  "link": "https://de.wikipedia.org/wiki/B%C3%BCndnerromanisch"
+ },
+ {
+  "id": "Heidi (Roman)",
+  "label": "Heidi",
+  "title": "Heidi (Roman)",
+  "link": "https://de.wikipedia.org/wiki/Heidi_(Roman)"
+ },
+ {
+  "id": "Schwingen",
+  "label": "Schwingen",
+  "title": "Schwingen",
+  "link": "https://de.wikipedia.org/wiki/Schwingen"
+ },
+ {
+  "id": "Art Basel",
+  "label": "Art Basel",
+  "title": "Art Basel",
+  "link": "https://de.wikipedia.org/wiki/Art_Basel"
+ },
+ {
+  "id": "Montreux Jazz Festival",
+  "label": "Montreux Jazz Festival",
+  "title": "Montreux Jazz Festival",
+  "link": "https://de.wikipedia.org/wiki/Montreux_Jazz_Festival"
+ },
+ {
+  "id": "Chalet",
+  "label": "Chalet",
+  "title": "Chalet",
+  "link": "https://de.wikipedia.org/wiki/Chalet"
+ },
+ {
+  "id": "Bernhardiner",
+  "label": "Bernhardiner",
+  "title": "Bernhardiner",
+  "link": "https://de.wikipedia.org/wiki/Bernhardiner"
+ },
+ {
+  "id": "Berner Sennenhund",
+  "label": "Berner Sennenhund",
+  "title": "Berner Sennenhund",
+  "link": "https://de.wikipedia.org/wiki/Berner_Sennenhund"
+ },
+ {
+  "id": "Roger Federer",
+  "label": "Roger Federer",
+  "title": "Roger Federer",
+  "link": "https://de.wikipedia.org/wiki/Roger_Federer"
+ },
+ {
+  "id": "Le Corbusier",
+  "label": "Le Corbusier",
+  "title": "Le Corbusier",
+  "link": "https://de.wikipedia.org/wiki/Le_Corbusier"
+ },
+ {
+  "id": "Carl Gustav Jung",
+  "label": "Carl Gustav Jung",
+  "title": "Carl Gustav Jung",
+  "link": "https://de.wikipedia.org/wiki/Carl_Gustav_Jung"
+ },
+ {
+  "id": "Jean-Jacques Rousseau",
+  "label": "Jean-Jacques Rousseau",
+  "title": "Jean-Jacques Rousseau",
+  "link": "https://de.wikipedia.org/wiki/Jean-Jacques_Rousseau"
+ },
+ {
+  "id": "Alberto Giacometti",
+  "label": "Alberto Giacometti",
+  "title": "Alberto Giacometti",
+  "link": "https://de.wikipedia.org/wiki/Alberto_Giacometti"
+ },
+ {
+  "id": "Henry Dunant",
+  "label": "Henry Dunant",
+  "title": "Henry Dunant",
+  "link": "https://de.wikipedia.org/wiki/Henry_Dunant"
+ }
+]
